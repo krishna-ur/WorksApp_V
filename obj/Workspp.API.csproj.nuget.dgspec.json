@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krish\\Desktop\\WebDev\\Workspp.API\\Workspp.API.csproj": {}
+    "C:\\Users\\krish\\Desktop\\WorkApp\\Workspp.API\\Workspp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krish\\Desktop\\WebDev\\Workspp.API\\Workspp.API.csproj": {
+    "C:\\Users\\krish\\Desktop\\WorkApp\\Workspp.API\\Workspp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krish\\Desktop\\WebDev\\Workspp.API\\Workspp.API.csproj",
+        "projectUniqueName": "C:\\Users\\krish\\Desktop\\WorkApp\\Workspp.API\\Workspp.API.csproj",
         "projectName": "Workspp.API",
-        "projectPath": "C:\\Users\\krish\\Desktop\\WebDev\\Workspp.API\\Workspp.API.csproj",
+        "projectPath": "C:\\Users\\krish\\Desktop\\WorkApp\\Workspp.API\\Workspp.API.csproj",
         "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krish\\Desktop\\WebDev\\Workspp.API\\obj\\",
+        "outputPath": "C:\\Users\\krish\\Desktop\\WorkApp\\Workspp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",

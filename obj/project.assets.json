@@ -1150,11 +1150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\krish\\Desktop\\WebDev\\Workspp.API\\Workspp.API.csproj",
+      "projectUniqueName": "C:\\Users\\krish\\Desktop\\WorkApp\\Workspp.API\\Workspp.API.csproj",
       "projectName": "Workspp.API",
-      "projectPath": "c:\\Users\\krish\\Desktop\\WebDev\\Workspp.API\\Workspp.API.csproj",
+      "projectPath": "C:\\Users\\krish\\Desktop\\WorkApp\\Workspp.API\\Workspp.API.csproj",
       "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\krish\\Desktop\\WebDev\\Workspp.API\\obj\\",
+      "outputPath": "C:\\Users\\krish\\Desktop\\WorkApp\\Workspp.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",
